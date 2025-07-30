@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Indigo Calm",
+    "jp": "深い藍",
+    "range": [
+      0.0,
+      0.3
+    ],
+    "hex": "#0d1b2a",
+    "note": "静かな内省"
+  },
+  {
+    "name": "Blue Hesitation",
+    "jp": "群青",
+    "range": [
+      0.3,
+      0.5
+    ],
+    "hex": "#1b3b73",
+    "note": "逡巡"
+  },
+  {
+    "name": "Amber Flicker",
+    "jp": "橙",
+    "range": [
+      0.5,
+      0.7
+    ],
+    "hex": "#de8a2a",
+    "note": "兆し"
+  },
+  {
+    "name": "Ash Red",
+    "jp": "灰赤",
+    "range": [
+      0.6,
+      0.8
+    ],
+    "hex": "#8a3b3b",
+    "note": "焦燥"
+  },
+  {
+    "name": "Crimson Flare",
+    "jp": "真紅",
+    "range": [
+      0.8,
+      1.0
+    ],
+    "hex": "#c1121f",
+    "note": "緊急"
+  }
+]
